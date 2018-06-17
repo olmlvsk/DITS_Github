@@ -5,3 +5,6 @@ you need also install plugin axure in google chrome to see all functionality of 
 
 link for Extention for Chrome:
 https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp
+
+All green text and buttons are clicable
+Some of this clickable elements work not correct, but it's enough to understsnd their functioonality
