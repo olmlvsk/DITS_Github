@@ -1,0 +1,16 @@
+.container {
+    width: 960px;
+    margin: 0px auto;
+    border: solid 1px;
+}
+
+header>div {
+    height: 20px;
+    background: green;
+}
+header>* {
+    padding: 0px auto;
+}
+/*header {*/
+    /*background-color: orange;*/
+/*}*/
