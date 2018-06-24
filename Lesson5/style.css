@@ -4,13 +4,79 @@
     border: solid 1px;
 }
 
-header>div {
-    height: 20px;
+header{
+    border-top: 30px solid green;
+    overflow: hidden;
+}
+
+.sect_left{
+    width: 40%;
+    float: left;
+    margin: 8px;
+    text-align: right;
+
+    /*border: 1px solid blue;*/
+}
+
+.sect_right{
+    width: 55%;
+    float: left;
+    margin: 4px;
+    padding: 4px;
+    text-align: left;
+    border-left:    1px solid limegreen;
+    /*border: 1px solid blue;*/
+}
+.cv_pic{
     background: green;
+    width: 40px;
+    height: 40px;
+    margin-top: 22px;
+    margin-left: 354px;
+
 }
-header>* {
-    padding: 0px auto;
+.cv{
+    padding-top: 14px;
+    padding-right: 8px;
+    text-transform: uppercase;
+    text-;
 }
-/*header {*/
-    /*background-color: orange;*/
-/*}*/
+
+main {
+    overflow: hidden;
+}
+
+h1{
+
+}
+h3{
+    text-transform: uppercase;
+}
+h4 {
+text-align: center ;
+}
+p{
+    text-transform: capitalize;
+}
+.skills{
+    text-align: left;
+}
+.skiils_pers{
+    float: left;
+    width: 141px;
+    text-align: left;
+    margin-left: 22px;
+}
+.skiils_spec {
+    width: 221px;
+    text-align: left;
+    float: left;
+}
+
+footer{
+    border-bottom: 30px solid green;
+}
+
+*{
+    font-family: Calibri;
+}
