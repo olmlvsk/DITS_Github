@@ -47,14 +47,22 @@ main {
 }
 
 h1{
-
+    font-size: 24pt;
 }
 h3{
     text-transform: uppercase;
+    margin-bottom: 0;
 }
 h4 {
-text-align: center ;
+    text-align: center ;
 }
+h5 {
+    margin: 0;
+}
+ul{
+    margin: 0;
+}
+
 p{
     text-transform: capitalize;
 }
@@ -72,6 +80,9 @@ p{
     text-align: left;
     float: left;
 }
+.expir_comp{
+    font-style: italic;: ;
+}
 
 footer{
     border-bottom: 30px solid green;
@@ -79,4 +90,5 @@ footer{
 
 *{
     font-family: Calibri;
+    font-size: 14pt;
 }
