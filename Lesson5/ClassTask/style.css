@@ -3,12 +3,10 @@
     margin: 0px auto;
     border: solid 1px;
 }
-
 header{
     border-top: 30px solid green;
     overflow: hidden;
 }
-
 .sect_left{
     width: 40%;
     float: left;
@@ -17,7 +15,6 @@ header{
 
     /*border: 1px solid blue;*/
 }
-
 .sect_right{
     width: 55%;
     float: left;
@@ -33,7 +30,6 @@ header{
     height: 40px;
     margin-top: 22px;
     margin-left: 354px;
-
 }
 .cv{
     padding-top: 14px;
@@ -41,11 +37,9 @@ header{
     text-transform: uppercase;
     text-;
 }
-
 main {
     overflow: hidden;
 }
-
 h1{
     font-size: 24pt;
 }
@@ -61,10 +55,6 @@ h5 {
 }
 ul{
     margin: 0;
-}
-
-p{
-    text-transform: capitalize;
 }
 .skills{
     text-align: left;
